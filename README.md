@@ -8,4 +8,4 @@ Code is coming soon.
 You can download our Surround dataset [here](https://drive.google.com/file/d/1h-8t4-iHLa3ujwUgcy7wmmgyXAeEORue/view?usp=sharing).
 
 # Video Demo
-<iframe src="//player.bilibili.com/player.html?aid=767470380&bvid=BV1Lr4y1q7Yt&cid=555871318&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[demo](https://www.bilibili.com/video/BV1Lr4y1q7Yt/)
