@@ -21,7 +21,7 @@ You can download our pretrained dcnet and SIBRNet model from [dcnet](https://dri
 
 # Train
 
-We use visdom to visualize the training process, please make sure it is connected. You can use 'python -m visdom.server --port xxxx' to build connection and open the visual interface in browser. Model will be saved in './outout'
+We use visdom to visualize the training process, please make sure it is connected. You can use 'python -m visdom.server --port xxxx' to build connection and open the visual interface in browser. Model will be saved in './output'
 
 ## Depth Completion Net
 Please train the depth completion net firstly.
@@ -36,6 +36,7 @@ python train_full.py --prefix SIBRNet --visdom_port xxxx
 ```
 
 # Eval
+Result will be saved in './Result'
 ```
 python evaluation.py --prefix SIBRNet --batch_size 1 --visualize
 ```
