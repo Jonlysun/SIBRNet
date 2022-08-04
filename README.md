@@ -14,7 +14,7 @@ We borrows forward warping from [Forward warping](https://github.com/lizhihao6/F
 # Dataset
 You can download our proposed dataset Surround from [here](https://drive.google.com/file/d/1h-8t4-iHLa3ujwUgcy7wmmgyXAeEORue/view?usp=sharing).
 
-We also post-process two public dataset Tanks_and_Temples and Free View Synthesis, you can download them form [Tanks_and_Temples(comming soon)](), [Free_View_Synthesis(comming soon)]().
+We also post-process two public dataset Tanks_and_Temples and Free View Synthesis, you can download them form [Tanks_and_Temples(baidudisk, code:iigy)](https://pan.baidu.com/s/1O2t2Qm0-YgsY-Mk9vovMdA), [Free_View_Synthesis(baidudisk, code:1nuh)](https://pan.baidu.com/s/14RpcymW4oBIWfPCSzO9Ocw).
 
 # Pre-trained Model
 You can download our pretrained dcnet and SIBRNet model from [dcnet](https://drive.google.com/file/d/1f22UsHubCkqdASt5G98V9-IlNBofeMXY/view?usp=sharing), [SIBRNet](https://drive.google.com/file/d/1xyjrVTN6mZ0RCax5fMD-_YheaXKQK8fw/view?usp=sharing). Place them in 'output'.
