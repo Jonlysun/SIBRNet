@@ -17,7 +17,7 @@ You can download our proposed dataset Surround from [here](https://drive.google.
 We also post-process two public dataset Tanks_and_Temples and Free View Synthesis, you can download them form [Tanks_and_Temples(baidudisk, code:iigy)](https://pan.baidu.com/s/1O2t2Qm0-YgsY-Mk9vovMdA), [Free_View_Synthesis(baidudisk, code:1nuh)](https://pan.baidu.com/s/14RpcymW4oBIWfPCSzO9Ocw).
 
 # Pre-trained Model
-You can download our pretrained dcnet and SIBRNet model from [dcnet](https://drive.google.com/file/d/1f22UsHubCkqdASt5G98V9-IlNBofeMXY/view?usp=sharing), [SIBRNet](https://drive.google.com/file/d/1xyjrVTN6mZ0RCax5fMD-_YheaXKQK8fw/view?usp=sharing). Place them in 'output'.
+You can download our pretrained dcnet and SIBRNet model from [dcnet](https://drive.google.com/file/d/1ELFMTEb--ltF_1J4V5dLfxVd6NpmeMBP/view?usp=drive_link), [SIBRNet](https://drive.google.com/file/d/11ILEKwOyJowOA5QCp9OFxKoJbFDSGEY3/view?usp=drive_link). Pleace them in 'output'.
 
 # Train
 
